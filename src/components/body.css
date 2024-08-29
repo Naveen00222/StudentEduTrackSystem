@@ -1,0 +1,136 @@
+.Body{
+    display: flex;
+}
+.Container{
+    background: blue;
+    width: 100px;
+    height:613px;
+    padding: 10px; 
+    display: flex;
+    flex-direction: column;
+   
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-bottom: 10px; 
+}
+.users, .frame, .quality, .dashboard, .attendance{
+    width: 50px;
+    height:50px;
+    margin-left: 25px;
+} 
+.userslogo, .framelogo, .qualitylogo, .dashboardlogo, .attendancelogo{
+    margin-bottom: 25px;
+}
+.Container p{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+/* cards section */
+
+.navSection{
+    background: rgb(11, 112, 228);
+    width:1236px;
+    height: 40px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+h2{
+    color:white;
+}
+.box{
+    display: flex;
+    gap:30px;
+    margin-top: 30px;
+    margin-left:150px;
+}
+.cardbox1,.cardbox2,.cardbox3{
+    border:2px solid black;
+    width:300px;
+    height: 150px;
+    border-radius: 25px;
+}
+.cardbox1{
+    background: red;
+}
+.cardbox2{
+    background: purple;
+}
+.cardbox3{
+    background:green;
+}
+.card1logo, .card2logo, .card3logo{
+    width: 80px;
+    height:80px;
+    margin-top:30px;
+    margin-left:15px;
+}
+h1{
+    text-align: end;
+    float:right;
+    padding:20px;
+    color:white;
+}
+.box p{
+    color:white;
+    font-size:20px;
+    text-align: end;
+    padding-right: 20px;
+}
+/* menu */
+
+h4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+
+.user, .book, .person, .study {
+    margin-left: 30px;
+    width:60px;
+    height:60px;
+}
+.sheet{
+    margin-left: 50px;
+    width:60px;
+    height:60px;
+}
+.message{
+    margin-left: 10px;
+    width:60px;
+    height:60px;
+}
+.clinic{
+    margin-left: 30px;
+    width:60px;
+    height:60px;
+}
+.userimage, .bookimage, .personimage, .studyimage, .sheetimage, .messageimage, .clinicimage{
+    margin-left:20px;
+    
+}
+.row1,.row2,.row3{
+    display: flex;
+    gap:220px;
+    margin-bottom: 20px;
+}
+.row3{
+    margin-left: 350px;
+}
+.totalrows{
+    margin-left: 200px;
+}
+.menu p{
+    font-size: 12px;
+    justify-content: center;
+}
+.sheetimage p{
+    margin-left: 50px;
+}
+.clinicimage p{
+    margin-left:45px;
+}

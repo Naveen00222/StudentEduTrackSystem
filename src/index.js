@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import HeaderLeft from './components/header';
-import Cards from './components/cards';
+import Body from './components/body';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Cards />
-    <HeaderLeft />
+ 
+    <Body />
+    
     
   </React.StrictMode>
 );
