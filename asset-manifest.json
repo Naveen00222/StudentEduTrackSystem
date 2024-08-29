@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Naveen00222/StudentEduTrackSystem.git/static/css/main.42e29cf2.css",
+    "main.js": "/Naveen00222/StudentEduTrackSystem.git/static/js/main.b32ab2d1.js",
+    "static/media/percent.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/percent.023e4521b53d0a8240a5.png",
+    "static/media/card2.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/card2.2173f1f136bdc777ee72.png",
+    "static/media/frame.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/frame.56ee1d2a98d080a25d18.png",
+    "static/media/users.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/users.f14b28c0b1272ccabfbd.png",
+    "static/media/study.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/study.d9214e04484d15a8c411.png",
+    "static/media/card1.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/card1.0c3db2dab3693c250796.png",
+    "static/media/user (1).png": "/Naveen00222/StudentEduTrackSystem.git/static/media/user (1).33e7df0963941edbeb70.png",
+    "static/media/email.png": "/Naveen00222/StudentEduTrackSystem.git/static/media/email.51b08bcbb5af7a861c31.png",
+    "index.html": "/Naveen00222/StudentEduTrackSystem.git/index.html",
+    "main.42e29cf2.css.map": "/Naveen00222/StudentEduTrackSystem.git/static/css/main.42e29cf2.css.map",
+    "main.b32ab2d1.js.map": "/Naveen00222/StudentEduTrackSystem.git/static/js/main.b32ab2d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e29cf2.css",
+    "static/js/main.b32ab2d1.js"
+  ]
+}
