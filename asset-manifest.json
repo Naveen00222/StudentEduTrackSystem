@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/StudentEduTrackSystem/static/css/main.42e29cf2.css",
-    "main.js": "/StudentEduTrackSystem/static/js/main.2515cb4f.js",
-    "static/media/percent.png": "/StudentEduTrackSystem/static/media/percent.023e4521b53d0a8240a5.png",
-    "static/media/card2.png": "/StudentEduTrackSystem/static/media/card2.2173f1f136bdc777ee72.png",
-    "static/media/frame.png": "/StudentEduTrackSystem/static/media/frame.56ee1d2a98d080a25d18.png",
-    "static/media/users.png": "/StudentEduTrackSystem/static/media/users.f14b28c0b1272ccabfbd.png",
-    "static/media/study.png": "/StudentEduTrackSystem/static/media/study.d9214e04484d15a8c411.png",
-    "static/media/card1.png": "/StudentEduTrackSystem/static/media/card1.0c3db2dab3693c250796.png",
-    "static/media/user (1).png": "/StudentEduTrackSystem/static/media/user (1).33e7df0963941edbeb70.png",
-    "static/media/email.png": "/StudentEduTrackSystem/static/media/email.51b08bcbb5af7a861c31.png",
-    "index.html": "/StudentEduTrackSystem/index.html",
-    "main.42e29cf2.css.map": "/StudentEduTrackSystem/static/css/main.42e29cf2.css.map",
-    "main.2515cb4f.js.map": "/StudentEduTrackSystem/static/js/main.2515cb4f.js.map"
+    "main.css": "/StudentEduTrackSystem-in-React/static/css/main.42e29cf2.css",
+    "main.js": "/StudentEduTrackSystem-in-React/static/js/main.11260353.js",
+    "static/media/percent.png": "/StudentEduTrackSystem-in-React/static/media/percent.023e4521b53d0a8240a5.png",
+    "static/media/card2.png": "/StudentEduTrackSystem-in-React/static/media/card2.2173f1f136bdc777ee72.png",
+    "static/media/frame.png": "/StudentEduTrackSystem-in-React/static/media/frame.56ee1d2a98d080a25d18.png",
+    "static/media/users.png": "/StudentEduTrackSystem-in-React/static/media/users.f14b28c0b1272ccabfbd.png",
+    "static/media/study.png": "/StudentEduTrackSystem-in-React/static/media/study.d9214e04484d15a8c411.png",
+    "static/media/card1.png": "/StudentEduTrackSystem-in-React/static/media/card1.0c3db2dab3693c250796.png",
+    "static/media/user (1).png": "/StudentEduTrackSystem-in-React/static/media/user (1).33e7df0963941edbeb70.png",
+    "static/media/email.png": "/StudentEduTrackSystem-in-React/static/media/email.51b08bcbb5af7a861c31.png",
+    "index.html": "/StudentEduTrackSystem-in-React/index.html",
+    "main.42e29cf2.css.map": "/StudentEduTrackSystem-in-React/static/css/main.42e29cf2.css.map",
+    "main.11260353.js.map": "/StudentEduTrackSystem-in-React/static/js/main.11260353.js.map"
   },
   "entrypoints": [
     "static/css/main.42e29cf2.css",
-    "static/js/main.2515cb4f.js"
+    "static/js/main.11260353.js"
   ]
 }
