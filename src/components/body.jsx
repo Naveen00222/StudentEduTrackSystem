@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState} from 'react';
 import './body.css';
 import logo from '../assets/sidemenu/logo.jpeg';
 import users from '../assets/sidemenu/users.png';
@@ -22,6 +22,10 @@ import clinicimage from '../assets/body/hospital.png';
 
 
 function Body(){
+
+    const [num1, setNum1] = useState(8);
+    const [num2, setNum2] = useState(13);
+    const [num3, setNum3] = useState("00");
     return(
         <div className='Body'>
             {/* Side Menu */}
@@ -66,17 +70,17 @@ function Body(){
                     <div className='box'>
                     <div className='cardbox1' id='boxone'>
                         <img src={card1} alt='card1' className='card1logo'></img>
-                        <h1>8</h1>
+                        <h1>{num1}</h1>
                         <p>Regular Students</p>
                         </div>
                         <div className='cardbox2' id='boxtwo'>
                             <img src={card2} alt='card2' className='card2logo'></img>
-                            <h1>13</h1>
+                            <h1>{num2}</h1>
                         <p>Remedial Students</p>
                             </div>
                             <div className='cardbox3' id='boxthree'>
                                 <img src={card3} alt='card2' className='card3logo'></img>
-                                <h1>00</h1>
+                                <h1>{num3}</h1>
                         <p>In Paid Clubs</p>
                                 </div>
                                 </div>
