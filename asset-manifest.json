@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StudentEduTrackSystem/static/css/main.42e29cf2.css",
-    "main.js": "/StudentEduTrackSystem/static/js/main.ce7eba6d.js",
+    "main.js": "/StudentEduTrackSystem/static/js/main.2515cb4f.js",
     "static/media/percent.png": "/StudentEduTrackSystem/static/media/percent.023e4521b53d0a8240a5.png",
     "static/media/card2.png": "/StudentEduTrackSystem/static/media/card2.2173f1f136bdc777ee72.png",
     "static/media/frame.png": "/StudentEduTrackSystem/static/media/frame.56ee1d2a98d080a25d18.png",
@@ -12,10 +12,10 @@
     "static/media/email.png": "/StudentEduTrackSystem/static/media/email.51b08bcbb5af7a861c31.png",
     "index.html": "/StudentEduTrackSystem/index.html",
     "main.42e29cf2.css.map": "/StudentEduTrackSystem/static/css/main.42e29cf2.css.map",
-    "main.ce7eba6d.js.map": "/StudentEduTrackSystem/static/js/main.ce7eba6d.js.map"
+    "main.2515cb4f.js.map": "/StudentEduTrackSystem/static/js/main.2515cb4f.js.map"
   },
   "entrypoints": [
     "static/css/main.42e29cf2.css",
-    "static/js/main.ce7eba6d.js"
+    "static/js/main.2515cb4f.js"
   ]
 }
